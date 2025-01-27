@@ -4,5 +4,3 @@ opencv-python-headless==4.9.0.80
 numpy==1.26.4
 torch==2.4.1
 torchvision==0.19.1
---use-feature=fast-deps
---no-cache-dir
