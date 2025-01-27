@@ -1,0 +1,6 @@
+streamlit==1.28.0
+ultralytics==8.2.4  # Compatible with PyTorch 2.4.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+torch==2.4.1        # Use Fix 2 (latest)
+torchvision==0.19.1
